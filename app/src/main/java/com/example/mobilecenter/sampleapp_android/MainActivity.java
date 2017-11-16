@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         MobileCenter.start(getApplication(), "b7b4dd10-efe9-4237-b900-3814ee8f270d",
                 Analytics.class, Crashes.class);
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_root);
+        settentView(R.layout.activity_root); // Intentional error to break build
 
         mSectionsPagerAdapter = new SectionsPagerAdapter(getSupportFragmentManager());
 
