@@ -1,4 +1,4 @@
-# Mobile Center Sample App for Android 
+# Mobile Center Sample App for Android !!!
 The Android application in this repository and its corresponding tutorials will help you quickly and easily onboard to Mobile Center.
 
 ## About this repository
